@@ -45,11 +45,11 @@ export const PROJECTS = [
     technologies: ["Tailwind", "HTML", "React", "MongoDB", "Javascript", "Node.js", "Express.js", "JWT"],
   },
   {
-    title: "Chat-On",
+    title: "Fitness-tracker",
     image: project2,
     description:
-      "The Chat-On App is a real-time messaging platform that enables seamless communication between users, featuring WebSocket-based instant messaging, secure JWT authentication, and a responsive, user-friendly interface built with React,and the backend handles real-time updates and API requests, while MongoDB provides scalable data storage for chat history.",
-    technologies: ["Tailwind", "React", "MongoDB", "Node.js", "Express.js", "Socket.io", "Javascript"],
+      "Architected a Fitness Tracker Website to help users monitor and track their daily physical activities, workouts and nutrition.Implemented features for goal setting, calorie tracking, and exercise logging with progress visualization through dynamic charts.",
+    technologies: ["Tailwind", "React", "MongoDB", "Node.js", "Express.js", "HTML", "Javascript"],
   },
  {
     title: "Portfolio Website",
