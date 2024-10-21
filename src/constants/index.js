@@ -1,5 +1,5 @@
 import project1 from "../assets/projects/erplogo.png";
-import project2 from "../assets/projects/chat_on.png";
+import project2 from "../assets/projects/fitnesslogo.png";
 import project3 from "../assets/projects/portfolio.png";
 import bitmesra from "../assets/BIT.png"
 import dps from "../assets/school_logo.jpg"
