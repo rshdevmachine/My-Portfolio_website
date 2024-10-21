@@ -1,5 +1,5 @@
 import project1 from "../assets/projects/erplogo.png";
-import project2 from "../assets/projects/fitnesslogo.png";
+import project2 from "../assets/projects/chat_on.png";
 import project3 from "../assets/projects/portfolio.png";
 import bitmesra from "../assets/BIT.png"
 import dps from "../assets/school_logo.jpg"
@@ -45,18 +45,18 @@ export const PROJECTS = [
     technologies: ["Tailwind", "HTML", "React", "MongoDB", "Javascript", "Node.js", "Express.js", "JWT"],
   },
   {
-    title: "Fitness-tracker",
+    title: "Chat-On",
     image: project2,
     description:
-      "Architected a Fitness Tracker Website to help users monitor and track their daily physical activities, workouts and nutrition.Implemented features for goal setting, calorie tracking, and exercise logging with progress visualization through dynamic charts.",
-    technologies: ["HTML", "CSS", "Javascript", "Tailwind", "Express.js", "MongoDB", "Node.js"],
+      "The Chat-On App is a real-time messaging platform that enables seamless communication between users, featuring WebSocket-based instant messaging, secure JWT authentication, and a responsive, user-friendly interface built with React,and the backend handles real-time updates and API requests, while MongoDB provides scalable data storage for chat history.",
+    technologies: ["Tailwind", "React", "MongoDB", "Node.js", "Express.js", "Socket.io", "Javascript"],
   },
-  {
+ {
     title: "Portfolio Website",
     image: project3,
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["HTML", "Tailwind", "React"],
+    technologies: ["React", "Tailwind", "Vite","Javascript"],
   },
 ];
 
